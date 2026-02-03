@@ -67,7 +67,7 @@ conda activate endee-rag
 pip install -r requirements.txt
 ```
 
-Endee Server Dependency
+   ## Endee Server Dependency
 
 Endee operates as a client–server vector database.
 The Python client communicates with an Endee server over HTTP.
@@ -84,7 +84,7 @@ RAG system design using Endee as the vector database
 
 When an Endee server is available, the ingestion and query scripts run end-to-end without modification.
 
-Future Enhancements
+## Future Enhancements
 
 Integration with an LLM for complete answer generation
 
@@ -94,7 +94,7 @@ Web-based interface for interactive querying
 
 Scalable deployment with remote Endee clusters
 
-Conclusion
+## Conclusion
 
 This project demonstrates a clean and practical implementation of a Retrieval-Augmented Generation pipeline using Endee as the vector database. It highlights Endee’s role in semantic retrieval and its applicability in real-world AI/ML systems.
 
