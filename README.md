@@ -1,3 +1,9 @@
+## Example Application: RAG using Endee
+
+This repository includes a Retrieval-Augmented Generation (RAG) demo
+located in the `rag_app/` directory, showcasing how Endee can be used
+as a vector database for semantic retrieval.
+
 # Endee: High-Performance Open Source Vector Database
 
 **Endee (nD)** is a specialized, high-performance vector database built for speed and efficiency. This guide covers supported platforms, dependency requirements, and detailed build instructions using both our automated installer and manual CMake configuration.
